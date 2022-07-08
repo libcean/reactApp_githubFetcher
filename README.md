@@ -1,12 +1,12 @@
-<h1>Github Profile Finder</h1>
+<<<<<<< HEAD
+//Github Profile Finder
 
-<p>Demo: https://github.com/libcean/reactApp_githubFetcher.git/</[p]>
+<!-- //Demo: https://github.com/libcean/reactApp_githubFetcher.git -->
 
 ## Folder Structure
 
 After creation, your project should look like this:
 
-```
 my-app/
   README.md
   node_modules/
@@ -37,8 +37,6 @@ my-app/
   package.json
   README.md
 
-```
-
 For the project to build, **these files must exist with exact filenames**:
 
 - `public/index.html` is the page template;
@@ -46,13 +44,14 @@ For the project to build, **these files must exist with exact filenames**:
 
 You can delete or rename the other files.
 
-You may create subdirectories inside `src`. For faster rebuilds, only files inside `src` are processed by Webpack.<br>
+You may create subdirectories inside `src`. For faster rebuilds, only files inside `src` are processed by Webpack.
+
 You need to **put any JS and CSS files inside `src`**, otherwise Webpack won’t see them.
 
-Only files inside `public` can be used from `public/index.html`.<br>
+Only files inside `public` can be used from `public/index.html`.
 Read instructions below for using assets from JavaScript and HTML.
 
-You can, however, create more top-level directories.<br>
+You can, however, create more top-level directories.
 They will not be included in the production build so you can use them for things like documentation.
 
 ## Available Scripts
@@ -61,23 +60,23 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.<br>
+<!-- Runs the app in the development mode.<br> -->
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br>
+<!-- The page will reload if you make edits.<br> -->
 You will also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.<br>
+Launches the test runner in the interactive watch mode.
 See the section about [running tests](#running-tests) for more information.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.<br>
+<!-- Builds the app for production to the `build` folder.<br> -->
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br>
+<!-- The build is minified and the filenames include the hashes.<br> -->
 Your app is ready to be deployed!
 
 See the section about [deployment](#deployment) for more information.
@@ -92,7 +91,9 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+<!-- //WHATSAPP ONLY: If you need help reach out: +2348033368982
 
-//WHATSAPP ONLY: If you need help reach out: +2348033368982
-
-<h3>App Developed By: <a href="https://wa.me/2348033368982?text=Hello%20FastLink,%20.%20You%20did%20great%20job" className="fastLink">FAST LINK WEB SEVICES</a></h3>
+<h3>App Developed By: <a href="https://wa.me/2348033368982?text=Hello%20FastLink,%20.%20You%20did%20great%20job" className="fastLink">FAST LINK WEB SEVICES</a></h3> -->
+=======
+//reactApp_githubFetcher
+>>>>>>> f337ede28a2b20d00ddedc02ae73a8e4651e466e
