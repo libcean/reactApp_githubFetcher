@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 //Github Profile Finder
 
-<!-- //Demo: https://github.com/libcean/reactApp_githubFetcher.git -->
+<!-- //Demo: https://libcean.github.io/reactApp_githubFetcher -->
 
 ## Folder Structure
 
